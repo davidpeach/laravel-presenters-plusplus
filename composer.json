@@ -9,6 +9,6 @@
             "email": "hello@davidpea.ch"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev-master",
     "require": {}
 }
