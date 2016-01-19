@@ -1,0 +1,14 @@
+{
+    "name": "davidpeach/presentersplusplus",
+    "description": "View Presenters as advised on Laracasts.com Taken one step further with individual Presenters for more specific overrides",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Peach",
+            "email": "hello@davidpea.ch"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
